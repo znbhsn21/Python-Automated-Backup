@@ -38,5 +38,3 @@ For any questions or concerns, please contact at zenabadnan10@gmail.com.
 
 ## 💖 Thanks Message
 Thank you for checking out this project.
-
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/)
